@@ -1,2 +1,2 @@
-# devops-practise
+# Devops Practice
 Devops practice 
